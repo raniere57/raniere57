@@ -66,15 +66,3 @@ Outros experimentos e anotações em **[raniere.dev](https://raniere.dev)**.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniere57&hide_border=true&background=181c22&ring=7aecc4&fire=7aecc4&currStreakLabel=7aecc4&sideLabels=8B949E&currStreakNum=e8eaed&sideNums=e8eaed&dates=8B949E" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniere57&hide_border=true&bg_color=181c22&color=7aecc4&line=7aecc4&point=e8eaed&area=true&theme=react" alt="Activity Graph" width="100%"/>
-
----
-
-<div align="center">
-
-[raniere.dev](https://raniere.dev) · [email](mailto:raniere57@icloud.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=raniere57&color=7aecc4&style=flat-square&labelColor=181c22" alt="Profile views"/>
-
-</div>
