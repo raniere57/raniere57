@@ -8,10 +8,15 @@
 
 Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e soluções de dados para transformar necessidades reais em ferramentas úteis no dia a dia.
 
-[![raniere.dev](https://img.shields.io/badge/raniere.dev-visitar-7aecc4?style=flat-square&labelColor=181c22)](https://raniere.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raniere-7aecc4?style=flat-square&labelColor=181c22&logo=linkedin&logoColor=7aecc4)](https://www.linkedin.com/in/raniere)
-[![Email](https://img.shields.io/badge/email-raniere57%40icloud.com-7aecc4?style=flat-square&labelColor=181c22)](mailto:raniere57@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-raniere57-7aecc4?style=flat-square&labelColor=181c22&logo=github&logoColor=7aecc4)](https://github.com/raniere57)
+<p align="left">
+  <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raniere"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-linkedin.png?v=1" height="34" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:raniere57@icloud.com"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-email.png?v=1" height="34" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/raniere57"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-github.png?v=1" height="34" alt="GitHub"/></a>
+</p>
 
 <br/>
 
