@@ -48,17 +48,7 @@ Outros experimentos e anotações em **[raniere.dev](https://raniere.dev)**.
 
 ---
 
-#### 03 / Como eu penso sobre isso
-
-Prefiro entender o contexto antes de escolher a stack.
-
-Tento manter as coisas simples — código que ninguém vai tocar depois não me parece uma vitória.
-
-Número sem origem clara me incomoda mais que um dashboard feio.
-
----
-
-#### 04 / Stack
+#### 03 / Stack
 
 <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,docker,linux,postgres,swift,git,github,bash,nginx&perline=6" alt="Stack principal" />
 
