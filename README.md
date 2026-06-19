@@ -20,7 +20,7 @@ Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e solu
 
 <br/>
 
-> Disponível para novos projetos
+> ? Disponível para novos projetos
 
 ---
 
