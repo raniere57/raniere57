@@ -6,7 +6,7 @@
 
 ## Raniere Rodrigues Gomes
 
-Trabalho com software, automação e dados. Gosto de entender como as coisas funcionam na prática — processos, sistemas, relatórios — antes de escrever código.
+Software, automação e dados.
 
 <p align="left">
   <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
