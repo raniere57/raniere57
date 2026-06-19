@@ -4,9 +4,9 @@
 
 **`SOFTWARE · DADOS · AUTOMAÇÃO`**
 
-## Software, automação e dados no mesmo fluxo.
+## Raniere Rodrigues Gomes
 
-Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e soluções de dados para transformar necessidades reais em ferramentas úteis no dia a dia.
+Trabalho com software, automação e dados. Gosto de entender como as coisas funcionam na prática — processos, sistemas, relatórios — antes de escrever código.
 
 <p align="left">
   <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
@@ -20,20 +20,18 @@ Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e solu
 
 <br/>
 
-> ? Disponível para novos projetos
-
 ---
 
-#### 01 / Serviços
+#### 01 / Foco
 
-| Frente | Foco |
+| Área | O que costumo mexer |
 | :--- | :--- |
-| **Desenvolvimento de software** | Web · iOS & Android · Desktop |
-| **Automações e integrações** | Integrações · Rotinas automáticas · Webhooks |
-| **APIs e sistemas internos** | API design · ERP / CRM · Back-office |
-| **Business Intelligence** | Dashboards · KPIs · Self-service BI |
-| **Engenharia de dados** | ETL / ELT · Data warehouse · Modelagem |
-| **Deploy e infraestrutura** | Linux · Containers · CI/CD |
+| **Software** | Web · iOS & Android · Desktop |
+| **Automação** | Integrações · rotinas · webhooks |
+| **APIs e back-office** | APIs · ERP / CRM · ferramentas internas |
+| **BI** | Dashboards · KPIs · self-service |
+| **Dados** | ETL / ELT · warehouse · modelagem |
+| **Infra** | Linux · containers · CI/CD |
 
 ---
 
@@ -46,17 +44,17 @@ Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e solu
 | **InsightGate** — portal Power BI | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
 | **DataForge** — pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
 
-Mais cases e demonstrações em **[raniere.dev](https://raniere.dev/#projetos)**.
+Outros experimentos e anotações em **[raniere.dev](https://raniere.dev)**.
 
 ---
 
-#### 03 / Como o trabalho acontece
+#### 03 / Como eu penso sobre isso
 
-**Problema primeiro** — tecnologia é meio. Antes de qualquer linha de código, o processo, o gargalo e o resultado esperado são mapeados.
+Prefiro entender o contexto antes de escolher a stack.
 
-**Simples e sustentável** — a melhor solução é a que a equipe consegue operar amanhã. Sem complexidade desnecessária.
+Tento manter as coisas simples — código que ninguém vai tocar depois não me parece uma vitória.
 
-**Dados confiáveis** — dashboard bonito com número errado é pior que planilha. Qualidade e rastreabilidade vêm antes da estética.
+Número sem origem clara me incomoda mais que um dashboard feio.
 
 ---
 
@@ -83,9 +81,7 @@ Mais cases e demonstrações em **[raniere.dev](https://raniere.dev/#projetos)**.
 
 <div align="center">
 
-**Tem um processo manual, um dado preso ou dois sistemas que não conversam?**
-
-[Iniciar conversa](mailto:raniere57@icloud.com) · [raniere.dev](https://raniere.dev)
+[raniere.dev](https://raniere.dev) · [email](mailto:raniere57@icloud.com)
 
 <br/>
 
