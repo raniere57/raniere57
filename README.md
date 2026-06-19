@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png" alt="raniere.dev" width="100%"/>
+<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png?v=2" alt="raniere.dev" width="100%"/>
 
 <br/>
 
-[![SOFTWARE · DADOS · AUTOMAÇÃO](https://img.shields.io/badge/SOFTWARE-%C2%B7_DADOS_%C2%B7_AUTOMACAO-8b949e?style=for-the-badge&labelColor=181c22)](https://raniere.dev)
+**`SOFTWARE · DADOS · AUTOMAÇÃO`**
 
 ## Software, automação e dados no mesmo fluxo.
 
