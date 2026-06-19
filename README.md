@@ -1,8 +1,8 @@
-<img src="./assets/banner.svg" alt="raniere.dev — Software, Dados e Automação" width="100%"/>
+<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.svg" alt="raniere.dev — Software, Dados e Automação" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=440&lines=SOFTWARE+%C2%B7+DADOS+%C2%B7+AUTOMAÇÃO" alt="Software · Dados · Automação" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=440&lines=SOFTWARE+%C2%B7+DADOS+%C2%B7+AUTOMACAO" alt="Software · Dados · Automação" />
 
 ## Software, automação e dados no mesmo fluxo.
 
