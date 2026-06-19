@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.svg" alt="raniere.dev — Software, Dados e Automação" width="100%"/>
+<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png" alt="raniere.dev" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=440&lines=SOFTWARE+%C2%B7+DADOS+%C2%B7+AUTOMACAO" alt="Software · Dados · Automação" />
+[![SOFTWARE  DADOS  AUTOMAO](https://img.shields.io/badge/SOFTWARE-%C2%B7_DADOS_%C2%B7_AUTOMACAO-8b949e?style=for-the-badge&labelColor=181c22)](https://raniere.dev)
 
-## Software, automação e dados no mesmo fluxo.
+## Software, automao e dados no mesmo fluxo.
 
-Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e soluções de dados para transformar necessidades reais em ferramentas úteis no dia a dia.
+Sou **Raniere Rodrigues Gomes**. Crio aplicaes, integraes, automaes e solues de dados para transformar necessidades reais em ferramentas teis no dia a dia.
 
 [![raniere.dev](https://img.shields.io/badge/raniere.dev-visitar-7aecc4?style=flat-square&labelColor=181c22)](https://raniere.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raniere-7aecc4?style=flat-square&labelColor=181c22&logo=linkedin&logoColor=7aecc4)](https://www.linkedin.com/in/raniere)
@@ -15,43 +15,43 @@ Sou **Raniere Rodrigues Gomes**. Crio aplicações, integrações, automações e solu
 
 <br/>
 
-> Disponível para novos projetos
+> Disponvel para novos projetos
 
 ---
 
-#### 01 / Serviços
+#### 01 / Servios
 
 | Frente | Foco |
 | :--- | :--- |
-| **Desenvolvimento de software** | Web · iOS & Android · Desktop |
-| **Automações e integrações** | Integrações · Rotinas automáticas · Webhooks |
-| **APIs e sistemas internos** | API design · ERP / CRM · Back-office |
-| **Business Intelligence** | Dashboards · KPIs · Self-service BI |
-| **Engenharia de dados** | ETL / ELT · Data warehouse · Modelagem |
-| **Deploy e infraestrutura** | Linux · Containers · CI/CD |
+| **Desenvolvimento de software** | Web  iOS & Android  Desktop |
+| **Automaes e integraes** | Integraes  Rotinas automticas  Webhooks |
+| **APIs e sistemas internos** | API design  ERP / CRM  Back-office |
+| **Business Intelligence** | Dashboards  KPIs  Self-service BI |
+| **Engenharia de dados** | ETL / ELT  Data warehouse  Modelagem |
+| **Deploy e infraestrutura** | Linux  Containers  CI/CD |
 
 ---
 
 #### 02 / Projetos
 
-| Projeto | Demo | Código |
+| Projeto | Demo | Cdigo |
 | :--- | :--- | :--- |
-| **Sigma** — atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
-| **Sentinel QA** — monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
-| **InsightGate** — portal Power BI | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
-| **DataForge** — pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
+| **Sigma**  atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
+| **Sentinel QA**  monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
+| **InsightGate**  portal Power BI | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
+| **DataForge**  pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
 
-Mais cases e demonstrações em **[raniere.dev](https://raniere.dev/#projetos)**.
+Mais cases e demonstraes em **[raniere.dev](https://raniere.dev/#projetos)**.
 
 ---
 
 #### 03 / Como o trabalho acontece
 
-**Problema primeiro** — tecnologia é meio. Antes de qualquer linha de código, o processo, o gargalo e o resultado esperado são mapeados.
+**Problema primeiro**  tecnologia  meio. Antes de qualquer linha de cdigo, o processo, o gargalo e o resultado esperado so mapeados.
 
-**Simples e sustentável** — a melhor solução é a que a equipe consegue operar amanhã. Sem complexidade desnecessária.
+**Simples e sustentvel**  a melhor soluo  a que a equipe consegue operar amanh. Sem complexidade desnecessria.
 
-**Dados confiáveis** — dashboard bonito com número errado é pior que planilha. Qualidade e rastreabilidade vêm antes da estética.
+**Dados confiveis**  dashboard bonito com nmero errado  pior que planilha. Qualidade e rastreabilidade vm antes da esttica.
 
 ---
 
@@ -78,9 +78,9 @@ Mais cases e demonstrações em **[raniere.dev](https://raniere.dev/#projetos)**.
 
 <div align="center">
 
-**Tem um processo manual, um dado preso ou dois sistemas que não conversam?**
+**Tem um processo manual, um dado preso ou dois sistemas que no conversam?**
 
-[Iniciar conversa](mailto:raniere57@icloud.com) · [raniere.dev](https://raniere.dev)
+[Iniciar conversa](mailto:raniere57@icloud.com)  [raniere.dev](https://raniere.dev)
 
 <br/>
 
