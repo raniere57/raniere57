@@ -11,7 +11,7 @@ Software, automação e dados.
 <p align="left">
   <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/raniere"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-linkedin.png?v=1" height="34" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raniere-rodrigues-gomes-237862116/"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-linkedin.png?v=1" height="34" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:raniere57@icloud.com"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-email.png?v=1" height="34" alt="Email"/></a>
   &nbsp;
@@ -62,7 +62,10 @@ Outros experimentos e anotações em **[raniere.dev](https://raniere.dev)**.
 
 #### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=raniere57&show_icons=true&hide_border=true&bg_color=181c22&title_color=7aecc4&icon_color=7aecc4&text_color=e8eaed&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raniere57&hide_border=true&background=181c22&ring=7aecc4&fire=7aecc4&currStreakLabel=7aecc4&sideLabels=8B949E&currStreakNum=e8eaed&sideNums=e8eaed&dates=8B949E" alt="GitHub Streak" height="165"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raniere57&show_icons=true&hide_border=true&bg_color=181c22&title_color=7aecc4&icon_color=7aecc4&text_color=e8eaed&count_private=true" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniere57&hide_border=true&background=181c22&ring=7aecc4&fire=7aecc4&currStreakLabel=7aecc4&sideLabels=8B949E&currStreakNum=e8eaed&sideNums=e8eaed&dates=8B949E" alt="GitHub Streak" height="165"/>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raniere57&hide_border=true&bg_color=181c22&color=7aecc4&line=7aecc4&point=e8eaed&area=true&theme=react" alt="Activity Graph" width="100%"/>
