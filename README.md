@@ -2,11 +2,11 @@
 
 <br/>
 
-**`SOFTWARE ∑ DADOS ∑ AUTOMA«√O`**
+**`SOFTWARE ù DADOS ù AUTOMAùùO`**
 
 ## Raniere Rodrigues Gomes
 
-Software, automaÁ„o e dados.
+Software, automaùùo e dados.
 
 <p align="left">
   <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
@@ -24,27 +24,28 @@ Software, automaÁ„o e dados.
 
 #### 01 / Foco
 
-| ¡rea | O que costumo mexer |
+| ùrea | O que costumo mexer |
 | :--- | :--- |
-| **Software** | Web ∑ iOS & Android ∑ Desktop |
-| **AutomaÁ„o** | IntegraÁıes ∑ rotinas ∑ webhooks |
-| **APIs e back-office** | APIs ∑ ERP / CRM ∑ ferramentas internas |
-| **BI** | Dashboards ∑ KPIs ∑ self-service |
-| **Dados** | ETL / ELT ∑ warehouse ∑ modelagem |
-| **Infra** | Linux ∑ containers ∑ CI/CD |
+| **Software** | Web ù iOS & Android ù Desktop |
+| **Automaùùo** | Integraùùes ù rotinas ù webhooks |
+| **APIs e back-office** | APIs ù ERP / CRM ù ferramentas internas |
+| **BI** | Dashboards ù KPIs ù self-service |
+| **Dados** | ETL / ELT ù warehouse ù modelagem |
+| **Infra** | Linux ù containers ù CI/CD |
 
 ---
 
 #### 02 / Projetos
 
-| Projeto | Demo | CÛdigo |
+| Projeto | Demo | Cùdigo |
 | :--- | :--- | :--- |
-| **Sigma** ó atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
-| **Sentinel QA** ó monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
-| **InsightGate** ó portal Power BI | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
-| **DataForge** ó pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
+| **Signal** ù plataforma omnichannel | [demo](https://raniere.dev/signal/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/signal) |
+| **Sigma** ù atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
+| **Sentinel QA** ù monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
+| **InsightGate** ù portal Power BI | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
+| **DataForge** ù pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
 
-Outros experimentos e anotaÁıes em **[raniere.dev](https://raniere.dev)**.
+Outros experimentos e anotaùùes em **[raniere.dev](https://raniere.dev)**.
 
 ---
 
