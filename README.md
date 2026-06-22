@@ -39,10 +39,11 @@ Software, automaùùo e dados.
 
 | Projeto | Demo | Cùdigo |
 | :--- | :--- | :--- |
+| **Synkin** ù inbound e outbound LinkedIn | [demo](https://raniere.dev/synkin/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/synkin) |
 | **Signal** ù plataforma omnichannel | [demo](https://raniere.dev/signal/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/signal) |
 | **Sigma** ù atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
 | **Sentinel QA** ù monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
-| **InsightGate** ù portal de relatÛrios e dashboards | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
+| **InsightGate** ù portal de relatùrios e dashboards | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
 | **DataForge** ù pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
 
 Outros experimentos e anotaùùes em **[raniere.dev](https://raniere.dev)**.
