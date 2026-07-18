@@ -24,7 +24,7 @@
   <rect width="1584" height="396" fill="url(#grid)"/>
 
   <!-- A faixa esquerda fica livre para a foto do perfil. -->
-  <g transform="translate(340 0)">
+  <g transform="translate(470 0)">
     <circle cx="5" cy="66" r="5" fill="#7aecc4"/>
     <text x="24" y="71" fill="#9aa5b1" font-family="Menlo, Monaco, monospace" font-size="13" letter-spacing="2.3">RANIERE.DEV / PORTFÓLIO</text>
 
