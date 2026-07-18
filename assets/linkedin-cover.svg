@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+  <title id="title">Raniere Rodrigues Gomes — Software, dados e automação</title>
+  <desc id="desc">Capa do LinkedIn com identidade visual escura do raniere.dev e um mapa técnico de sistemas.</desc>
+
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#080e17"/>
+      <stop offset="0.58" stop-color="#0b121c"/>
+      <stop offset="1" stop-color="#101a24"/>
+    </linearGradient>
+    <linearGradient id="blend" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#080e17"/>
+      <stop offset="0.5" stop-color="#080e17" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#080e17" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#dce5eb" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#base)"/>
+  <image x="525" y="0" width="1059" height="396" xlink:href="linkedin-cover-background.png" preserveAspectRatio="none"/>
+  <rect x="420" y="0" width="650" height="396" fill="url(#blend)"/>
+  <rect width="1584" height="396" fill="url(#grid)"/>
+
+  <!-- A faixa esquerda fica livre para a foto do perfil. -->
+  <g transform="translate(340 0)">
+    <circle cx="5" cy="66" r="5" fill="#7aecc4"/>
+    <text x="24" y="71" fill="#9aa5b1" font-family="Menlo, Monaco, monospace" font-size="13" letter-spacing="2.3">RANIERE.DEV / PORTFÓLIO</text>
+
+    <text x="0" y="148" fill="#f3f6f8" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.3">Software, dados</text>
+    <text x="0" y="207" fill="#f3f6f8" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.3">e <tspan fill="#7aecc4">automação.</tspan></text>
+
+    <text x="2" y="257" fill="#a8b1bc" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="18">Soluções digitais para problemas reais de negócio.</text>
+
+    <line x1="2" y1="307" x2="56" y2="307" stroke="#7aecc4" stroke-width="3"/>
+    <text x="76" y="312" fill="#7f8b98" font-family="Menlo, Monaco, monospace" font-size="12" letter-spacing="1.25">APLICAÇÕES · INTEGRAÇÕES · DADOS &amp; BI</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1583" height="395" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+</svg>
