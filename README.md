@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png?v=3" alt="Raniere Rodrigues Gomes — Software, dados e automação" width="100%"/>
+<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/profile-banner.png" alt="Raniere Rodrigues Gomes — Software, dados e automação" width="100%"/>
 
 <br/>
 
