@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Raniere Rodrigues Gomes — Software, dados e automação</title>
+  <desc id="desc">Banner escuro do portfólio raniere.dev com uma representação visual de software, automação e dados.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11171f"/>
+      <stop offset="1" stop-color="#171e27"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7aecc4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7aecc4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#dce5eb" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#background)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="80" rx="310" ry="260" fill="url(#glow)"/>
+
+  <g transform="translate(72 0)">
+    <circle cx="5" cy="65" r="5" fill="#7aecc4" filter="url(#soft-glow)"/>
+    <text x="24" y="70" fill="#9aa5b1" font-family="Menlo, Monaco, monospace" font-size="13" letter-spacing="2.2">RANIERE.DEV / PORTFÓLIO</text>
+
+    <text x="0" y="148" fill="#f3f6f8" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">Software, dados</text>
+    <text x="0" y="207" fill="#f3f6f8" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">e <tspan fill="#7aecc4">automação.</tspan></text>
+
+    <text x="2" y="251" fill="#a8b1bc" font-family="Avenir Next, Avenir, Arial, sans-serif" font-size="18">Soluções digitais para problemas reais de negócio.</text>
+
+    <line x1="2" y1="296" x2="56" y2="296" stroke="#7aecc4" stroke-width="3"/>
+    <text x="74" y="301" fill="#798592" font-family="Menlo, Monaco, monospace" font-size="12" letter-spacing="1.2">APLICAÇÕES · INTEGRAÇÕES · DADOS &amp; BI</text>
+  </g>
+
+  <g transform="translate(704 44)">
+    <rect x="0.5" y="0.5" width="423" height="271" rx="13" fill="#151c24" fill-opacity="0.9" stroke="#46515d" stroke-opacity="0.75"/>
+    <path d="M 1 39.5 H 423" stroke="#46515d" stroke-opacity="0.72"/>
+    <circle cx="22" cy="20" r="4" fill="#66717d"/>
+    <circle cx="38" cy="20" r="4" fill="#66717d"/>
+    <circle cx="54" cy="20" r="4" fill="#7aecc4"/>
+    <text x="80" y="24" fill="#7d8995" font-family="Menlo, Monaco, monospace" font-size="10" letter-spacing="1">ESCOPO / VISÃO GERAL</text>
+
+    <g stroke="#50606b" stroke-width="1.4" fill="none" stroke-dasharray="4 5">
+      <path d="M 208 136 C 175 112, 154 100, 126 93"/>
+      <path d="M 218 136 C 258 105, 284 97, 314 91"/>
+      <path d="M 214 147 C 210 178, 208 193, 207 215"/>
+    </g>
+
+    <g transform="translate(44 59)">
+      <rect width="133" height="69" rx="7" fill="#1b242d" stroke="#3f4b57"/>
+      <rect x="13" y="13" width="36" height="14" rx="3" fill="#7aecc4" fill-opacity="0.12" stroke="#7aecc4" stroke-opacity="0.75"/>
+      <text x="18" y="23" fill="#7aecc4" font-family="Menlo, Monaco, monospace" font-size="7">APP</text>
+      <path d="M 13 41 H 83 M 13 49 H 107 M 13 57 H 64" stroke="#7e8994" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+      <text x="13" y="-9" fill="#8f9aa6" font-family="Menlo, Monaco, monospace" font-size="9" letter-spacing="1.2">SOFTWARE</text>
+    </g>
+
+    <g transform="translate(269 59)">
+      <rect width="111" height="69" rx="7" fill="#1b242d" stroke="#3f4b57"/>
+      <path d="M 24 35 H 52 M 60 35 H 88" stroke="#687580" stroke-width="2"/>
+      <circle cx="20" cy="35" r="7" fill="#1b242d" stroke="#7aecc4"/>
+      <circle cx="56" cy="35" r="7" fill="#7aecc4" fill-opacity="0.18" stroke="#7aecc4"/>
+      <circle cx="92" cy="35" r="7" fill="#1b242d" stroke="#7aecc4"/>
+      <path d="M 88 31 L 96 35 88 39" fill="#7aecc4" stroke="none"/>
+      <text x="0" y="-9" fill="#8f9aa6" font-family="Menlo, Monaco, monospace" font-size="9" letter-spacing="1.2">AUTOMAÇÃO</text>
+    </g>
+
+    <g transform="translate(151 189)">
+      <rect width="123" height="58" rx="7" fill="#1b242d" stroke="#3f4b57"/>
+      <path d="M 17 44 H 106" stroke="#56636f"/>
+      <rect x="25" y="29" width="12" height="15" rx="2" fill="#7aecc4" fill-opacity="0.35"/>
+      <rect x="47" y="20" width="12" height="24" rx="2" fill="#7aecc4" fill-opacity="0.55"/>
+      <rect x="69" y="11" width="12" height="33" rx="2" fill="#7aecc4" fill-opacity="0.8"/>
+      <rect x="91" y="24" width="12" height="20" rx="2" fill="#7aecc4"/>
+      <text x="44" y="-9" fill="#8f9aa6" font-family="Menlo, Monaco, monospace" font-size="9" letter-spacing="1.2">DADOS</text>
+    </g>
+
+    <g transform="translate(185 111)">
+      <rect width="58" height="58" rx="12" fill="#18242a" stroke="#7aecc4" stroke-opacity="0.8"/>
+      <circle cx="29" cy="29" r="19" fill="#7aecc4" fill-opacity="0.08"/>
+      <text x="29" y="37" text-anchor="middle" fill="#f3f6f8" font-family="Menlo, Monaco, monospace" font-size="22" font-weight="700">r<tspan fill="#7aecc4">.</tspan></text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+</svg>

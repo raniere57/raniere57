@@ -1,73 +1,54 @@
-<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png?v=2" alt="raniere.dev" width="100%"/>
+<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/banner.png?v=3" alt="Raniere Rodrigues Gomes ‚Äî Software, dados e automa√ß√£o" width="100%"/>
 
 <br/>
 
-**`SOFTWARE ù DADOS ù AUTOMAùùO`**
+## Ol√°, eu sou o Raniere
 
-## Raniere Rodrigues Gomes
+Desenvolvo aplica√ß√µes, integra√ß√µes, automa√ß√µes e solu√ß√µes de dados para transformar problemas reais de neg√≥cio em ferramentas √∫teis no dia a dia.
 
-Software, automaùùo e dados.
+Meu trabalho acontece na interse√ß√£o entre **software**, **automa√ß√£o** e **dados** ‚Äî da ideia √† entrega, sem perder de vista quem vai usar e o resultado que precisa aparecer.
 
 <p align="left">
-  <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="raniere.dev"/></a>
+  <a href="https://raniere.dev"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-site.png?v=1" height="34" alt="Acessar raniere.dev"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/raniere-rodrigues-gomes-237862116/"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-linkedin.png?v=1" height="34" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raniere-rodrigues-gomes-237862116/"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-linkedin.png?v=1" height="34" alt="Perfil no LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:raniere57@icloud.com"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-email.png?v=1" height="34" alt="Email"/></a>
-  &nbsp;
-  <a href="https://github.com/raniere57"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-github.png?v=1" height="34" alt="GitHub"/></a>
+  <a href="mailto:raniere57@icloud.com"><img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/badge-email.png?v=1" height="34" alt="Enviar e-mail"/></a>
 </p>
 
-<br/>
-
 ---
 
-#### 01 / Foco
+### O que eu construo
 
-| ùrea | O que costumo mexer |
-| :--- | :--- |
-| **Software** | Web ù iOS & Android ù Desktop |
-| **Automaùùo** | Integraùùes ù rotinas ù webhooks |
-| **APIs e back-office** | APIs ù ERP / CRM ù ferramentas internas |
-| **BI** | Dashboards ù KPIs ù self-service |
-| **Dados** | ETL / ELT ù warehouse ù modelagem |
-| **Infra** | Linux ù containers ù CI/CD |
-
----
-
-#### 02 / Projetos
-
-| Projeto | Demo | Cùdigo |
+| Software | Automa√ß√£o | Dados & BI |
 | :--- | :--- | :--- |
-| **Synkin** ù inbound e outbound LinkedIn | [demo](https://raniere.dev/synkin/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/synkin) |
-| **Signal** ù plataforma omnichannel | [demo](https://raniere.dev/signal/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/signal) |
-| **Sigma** ù atendimento com IA | [demo](https://raniere.dev/sigma/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sigma) |
-| **Sentinel QA** ù monitoria de atendimentos | [demo](https://raniere.dev/sentinel/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/sentinel) |
-| **InsightGate** ù portal de relatùrios e dashboards | [demo](https://raniere.dev/insightgate/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/insightgate) |
-| **DataForge** ù pipelines de dados | [demo](https://raniere.dev/dataforge/) | [repo](https://github.com/raniere57/raniere-dev/tree/main/dataforge) |
-
-Outros experimentos e anotaùùes em **[raniere.dev](https://raniere.dev)**.
+| Aplica√ß√µes web, mobile e desktop | Integra√ß√µes, webhooks e rotinas | ETL/ELT, modelagem e qualidade |
+| APIs e sistemas internos | Processos de back-office | Dashboards, indicadores e an√°lise |
+| Produtos digitais sob medida | Fluxos entre ERP, CRM e outros servi√ßos | Informa√ß√£o pronta para decis√£o |
 
 ---
 
-#### 03 / Stack
+### Projetos em destaque
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,docker,linux,postgres,swift,git,github,bash,nginx&perline=6" alt="Stack principal" />
+| Projeto | O que resolve | Demo |
+| :--- | :--- | :--- |
+| **Synkin** | Inbound e outbound para LinkedIn com apoio de IA | [abrir](https://raniere.dev/synkin/) |
+| **Signal** | Atendimento omnichannel em uma √∫nica opera√ß√£o | [abrir](https://raniere.dev/signal/) |
+| **Lightpath** | Gest√£o e mapeamento de redes FTTH | [abrir](https://raniere.dev/lightpath/) |
+| **DataForge** | Pipelines de dados leves sobre DuckDB | [abrir](https://raniere.dev/dataforge/) |
+| **Sentinel QA** | Monitoria de qualidade de atendimentos com IA | [abrir](https://raniere.dev/sentinel/) |
+| **InsightGate** | Governan√ßa para relat√≥rios e dashboards p√∫blicos | [abrir](https://raniere.dev/insightgate/) |
+
+Veja o portf√≥lio completo e as demos naveg√°veis em **[raniere.dev](https://raniere.dev)**.
+
+---
+
+### Tecnologias
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,postgres,docker,linux,git,github,bash,nginx,swift&perline=12" alt="React, TypeScript, Node.js, Python, PostgreSQL, Docker, Linux, Git, GitHub, Bash, Nginx e Swift" />
 
 <details>
-  <summary><b>Mais ferramentas</b></summary>
+  <summary><b>Outras ferramentas e linguagens</b></summary>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,go,rust,apple,aws,html,css,js&perline=4" alt="Mais ferramentas" />
+  <img src="https://skillicons.dev/icons?i=nextjs,go,rust,aws,html,css,js&perline=7" alt="Next.js, Go, Rust, AWS, HTML, CSS e JavaScript" />
 </details>
-
----
-
-#### GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raniere57&show_icons=true&hide_border=true&bg_color=181c22&title_color=7aecc4&icon_color=7aecc4&text_color=e8eaed&count_private=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raniere57&hide_border=true&background=181c22&ring=7aecc4&fire=7aecc4&currStreakLabel=7aecc4&sideLabels=8B949E&currStreakNum=e8eaed&sideNums=e8eaed&dates=8B949E" alt="GitHub Streak" height="165"/>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raniere57&hide_border=true&bg_color=181c22&color=7aecc4&line=7aecc4&point=e8eaed&area=true&theme=react" alt="Activity Graph" width="100%"/>
