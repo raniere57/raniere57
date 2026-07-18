@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/profile-banner.png" alt="Raniere Rodrigues Gomes — Software, dados e automação" width="100%"/>
+<a href="https://raniere.dev">
+  <img src="https://raw.githubusercontent.com/raniere57/raniere57/main/assets/profile-banner.png" alt="Acessar raniere.dev — Software, dados e automação" width="100%"/>
+</a>
 
 <br/>
 
@@ -28,16 +30,23 @@ Meu trabalho acontece na interseção entre **software**, **automação** e **da
 
 ---
 
-### Projetos em destaque
+### Projetos e demos
 
 | Projeto | O que resolve | Demo |
 | :--- | :--- | :--- |
-| **Synkin** | Inbound e outbound para LinkedIn com apoio de IA | [abrir](https://raniere.dev/synkin/) |
-| **Signal** | Atendimento omnichannel em uma única operação | [abrir](https://raniere.dev/signal/) |
-| **Lightpath** | Gestão e mapeamento de redes FTTH | [abrir](https://raniere.dev/lightpath/) |
-| **DataForge** | Pipelines de dados leves sobre DuckDB | [abrir](https://raniere.dev/dataforge/) |
-| **Sentinel QA** | Monitoria de qualidade de atendimentos com IA | [abrir](https://raniere.dev/sentinel/) |
-| **InsightGate** | Governança para relatórios e dashboards públicos | [abrir](https://raniere.dev/insightgate/) |
+| **Codex** | Wiki interna e base de conhecimento corporativa | [abrir ↗](https://raniere.dev/codex/) |
+| **Pulse** | Monitoramento de aplicações, serviços e incidentes | [abrir ↗](https://raniere.dev/pulse/) |
+| **Reach** | Viabilidade comercial e cobertura para ISPs | [abrir ↗](https://raniere.dev/reach/) |
+| **Lightpath** | Gestão e mapeamento de redes FTTH | [abrir ↗](https://raniere.dev/lightpath/) |
+| **Runbook** | Automação de rotinas administrativas | [abrir ↗](https://raniere.dev/runbook/) |
+| **Conduit** | Hub de integrações entre ERP e CRM | [abrir ↗](https://raniere.dev/conduit/) |
+| **Cadence** | Campanhas e réguas multicanal | [abrir ↗](https://raniere.dev/cadence/) |
+| **Signal** | Atendimento omnichannel em uma única operação | [abrir ↗](https://raniere.dev/signal/) |
+| **Synkin** | Inbound e outbound para LinkedIn com apoio de IA | [abrir ↗](https://raniere.dev/synkin/) |
+| **Sigma** | Atendimento empresarial com IA, contexto e integrações | [abrir ↗](https://raniere.dev/sigma/) |
+| **Sentinel QA** | Monitoria de qualidade de atendimentos com IA | [abrir ↗](https://raniere.dev/sentinel/) |
+| **InsightGate** | Governança para relatórios e dashboards públicos | [abrir ↗](https://raniere.dev/insightgate/) |
+| **DataForge** | Pipelines de dados leves sobre DuckDB | [abrir ↗](https://raniere.dev/dataforge/) |
 
 Veja o portfólio completo e as demos navegáveis em **[raniere.dev](https://raniere.dev)**.
 
